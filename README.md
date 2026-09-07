@@ -7,7 +7,6 @@ A machine learning-based system that analyzes daily lifestyle habits, detects be
 Traditional habit trackers mainly record daily activities. This project goes further by identifying whether a person's habits are **improving, stable, or declining**.
 
 The system analyzes factors such as:
-
 * Sleep
 * Study/Work
 * Exercise
