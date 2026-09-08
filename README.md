@@ -123,7 +123,6 @@ Personal-Habit-Drift/
 * Wearable data integration
 
 ## 🎓 Purpose
-
 This project was developed as an academic machine learning project to demonstrate **behavioral analysis, regression, drift detection, forecasting, and explainable recommendations**.
 
 > **Track → Detect → Predict → Explain → Improve**
